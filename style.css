@@ -1,0 +1,108 @@
+body{
+  
+}
+.banner img{
+    float:right;
+}
+.sign_p{
+    font-family: math;
+    color: #6c6b6b;
+    font-weight:100;
+    line-height: 1.2;
+}
+.facebook a{
+    padding: 10px 40px;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 8px;
+}
+.facebook{
+    text-align: center;
+}
+.facebook i{
+    font-size: 16px;
+    padding: 0px 5px;
+}
+.sign_up{
+    width: 350px;
+    margin: auto;
+    padding: 10px 40px;
+    border: 1px solid #ccc;
+}
+.sign_up, h2, p{
+    text-align: center;
+}
+.sign_up h2{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    font-family: cursive;
+    font-weight: 900;
+}
+
+.or_opt{
+    position: relative;
+    top: 10px;
+}
+.or_opt span{
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    color: #666666;
+    position: relative;
+    top: -30px;
+    padding: 0px 12px;
+    background-color: #fff;
+}
+div > input[type]{
+    font-size: 12px;
+    background-color: #f7f6f6;
+}
+.more_info p{
+    text-align: center;
+    font-size: 12px;
+    color: #666666;
+}
+.more_info p a{
+    text-decoration: none;
+    color:darkblue;
+}
+.signup_btn{
+    width: 100%;
+    border-radius: 8px;
+    padding: 4px 0px;
+}
+footer{
+    width: 350px;
+    margin: auto;
+    padding: 10px 40px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+    font-size: 14px;
+}
+footer p, a{
+    margin-top: 8px;
+}
+footer a:hover{
+    text-decoration: none;
+}
+.app p{
+    font-size: 13px;
+    color: #000;
+    margin-top: 10px;
+}
+
+.app{
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+.app img{
+    height: 40px;
+}
+#gp{
+    float: right;
+}
+#ms{
+    float:left ;
+}
